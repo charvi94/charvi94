@@ -157,7 +157,6 @@ real-world problems through technology.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
@@ -199,7 +198,7 @@ A web-based content generation platform focused on automated content creation an
 * Built a modular Flask backend
 * Developed REST API endpoints
 * Implemented media processing workflows
-* Integrated text and content generation functionality
+* Integrated content generation functionality
 * Built a responsive application interface
 
 **Tech:** Python, Flask, REST APIs
@@ -232,7 +231,12 @@ https://github.com/charvi94/Image_tempering
 
 An end-to-end **Data Analytics + Machine Learning project** analyzing customer churn and converting analytical findings into actionable business recommendations.
 
-### Dataset
+🔗 **Repository:**
+https://github.com/charvi94/Customer-Churn-Prediction
+
+---
+
+## 📂 Dataset
 
 **IBM Telco Customer Churn Dataset**
 
@@ -337,24 +341,25 @@ Provides:
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charvi94&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi94&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <a href="https://github.com/charvi94">
+    <img src="https://github-readme-stats.vercel.app/api?username=charvi94&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  </a>
+  <a href="https://github.com/charvi94">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi94&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  </a>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=charvi94&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/charvi94">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=charvi94&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  </a>
 </p>
 
 ---
